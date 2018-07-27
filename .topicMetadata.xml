@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
 <topics>
   <topic>
     <guid>77d73706-de6f-4b0e-bd0f-22aa9e9e23d1</guid>
@@ -10,5 +11,9 @@
   <topic>
     <guid>db7e6ed6-055f-40ac-a3ce-3e539358dd26</guid>
     <filename>Edit your Help content in GitHub.html</filename>
+  </topic>
+  <topic>
+    <guid>c780fdfb-21ee-49c5-b9ab-c44ddebf46ed</guid>
+    <filename>Learn about Topic Metadata.html</filename>
   </topic>
 </topics>
